@@ -3,7 +3,7 @@
 Like other projects, we also have some guidelines to keep to the
 code.  For Git in general, a few rough rules are:
 
- - Most importantly, we never say "It's in POSIX; we'll happily
+ - Most importantly, we never say "It's in POSIX (POSIX); we'll happily
    ignore your needs should your system not conform to it."
    We live in the real world.
 
@@ -36,4 +36,5 @@ contributing to). It is always preferable to match the _local_
 convention. New code added to Git suite is expected to match
 the overall style of existing code. Modifications to existing
 code is expected to match the style the surrounding code already
-uses (even if it doesn't match the overall style of existing code).
+uses (even if it doesn't match the overall style of existing code), etc.
+
