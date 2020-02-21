@@ -1,5 +1,7 @@
 # m2i-jour2
 
+modif master 
+
 Like other projects, we also have some guidelines to keep to the
 code.  For Git in general, a few rough rules are:
 
